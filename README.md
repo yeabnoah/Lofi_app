@@ -1,4 +1,6 @@
 <img src="https://i.ibb.co/BNwjKxy/lofi.jpg" alt="lofi" border="0" height=350px>
+<img src="https://i.ibb.co/BNwjKxy/lofi.jpg" alt="lofi" border="0" height=350px>
+<img src="https://i.ibb.co/BNwjKxy/lofi.jpg" alt="lofi" border="0" height=350px>
 
 # Lofi App UI
 
