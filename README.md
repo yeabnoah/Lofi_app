@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/BNwjKxy/lofi.jpg" alt="lofi" border="0">
+
 # Lofi App UI
 
 Lofi App UI is a demonstration of interactive UI skills using the Reanimated library, Expo, React Native, and Native Wind. It showcases the ability to build engaging and interactive user interfaces with smooth animations.
