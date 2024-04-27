@@ -1,7 +1,7 @@
 <div display="flex">
-  <img src="https://i.ibb.co/BNwjKxy/lofi.jpg" alt="lofi" border="0" height=350px>
-<img src="https://i.ibb.co/BNwjKxy/lofi.jpg" alt="lofi" border="0" height=350px>
-<img src="https://i.ibb.co/BNwjKxy/lofi.jpg" alt="lofi" border="0" height=350px>
+  <img src="https://i.ibb.co/BNwjKxy/lofi.jpg" alt="lofi" border="0" height=350px margin=10px>
+<img src="https://i.ibb.co/BNwjKxy/lofi.jpg" alt="lofi" border="0" height=350px margin=10px>
+<img src="https://i.ibb.co/BNwjKxy/lofi.jpg" alt="lofi" border="0" height=350px margin=10px>
 </div>
 
 
